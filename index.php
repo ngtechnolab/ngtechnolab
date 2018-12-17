@@ -3,7 +3,11 @@
  * CodeIgniter
  *
  * An n source application development framework for PHP
+<<<<<<< HEAD
  *asdass
+=======
+ *
+>>>>>>> 24bf194065a4725d20bd20561d2c2e9224a1f6fb
  * This content is released under the MIT License (MIT)
  *
  * Copyright (c) 2014 - 2018, British Columbia Institute of Technology
